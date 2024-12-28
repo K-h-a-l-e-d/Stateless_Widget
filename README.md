@@ -1,16 +1,13 @@
-# stateless_widget_with_txt_img
+# Simple flutter Stateless Widget with Images and Text
 
-A new Flutter project.
+## Description
+This is a simple Flutter application demo of how to make a StatelessWidget & display images and text in a centered layout.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Displays two images: a Network Image and one from the local assets.
+- Customized text style using different fonts and colors.
+- Responsive layout that adjusts image sizes based on the screen dimensions
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Application Screenshots: 
+![CodeOutput](https://github.com/user-attachments/assets/f5d1fbbc-8a3f-40f9-b8ff-66c6a557b6af)
